@@ -1,0 +1,53 @@
+{
+  "index.qmd": {
+    "index.html": "24f73d59"
+  },
+  "projects/project_2/index.qmd": {
+    "index.html": "91e4e02e"
+  },
+  "projects/index.qmd": {
+    "index.html": "cfacceec"
+  },
+  "projects/pkg_1/index.qmd": {
+    "index.html": "7ddf8ad5"
+  },
+  "projects/project_1/index.qmd": {
+    "index.html": "d54898d2"
+  },
+  "projects/pkg_2/index.qmd": {
+    "index.html": "f0423f91"
+  },
+  "talks/talk_2/index.qmd": {
+    "index.html": "35672820"
+  },
+  "talks/index.qmd": {
+    "index.html": "022ecae2"
+  },
+  "talks/talk_1/index.qmd": {
+    "index.html": "efbf0b86"
+  },
+  "blog/post-with-code/index.qmd": {
+    "index.html": "5c09b3f0"
+  },
+  "blog/welcome/index.qmd": {
+    "index.html": "647834c0"
+  },
+  "about.qmd": {
+    "about.html": "9f93446c"
+  },
+  "about_template.qmd": {
+    "about_template.html": "c5a5c260"
+  },
+  "blog.qmd": {
+    "blog.html": "8553b179"
+  },
+  "teaching.qmd": {
+    "teaching.html": "dabe55bb"
+  },
+  "research.qmd": {
+    "research.html": "ae0751e1"
+  },
+  "cv.qmd": {
+    "cv.html": "0cdff559"
+  }
+}
