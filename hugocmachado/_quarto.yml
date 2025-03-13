@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Hugo Machado"  
+  page-footer:
+    left: "©2025, Hugo Machado"
+    right: "Built with [Quarto](https://quarto.org/)."
+  navbar:
+    title: "Hugo Machado"
+    background: white
+    foreground: dark
+    search: false
+    left:
+      - text: "CV"
+        href: cv.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+    right:
+      - icon: github
+        href: https://github.com/hugocmachado
+      - icon: envelope
+        href: mailto:hmachad2@uwo.ca
+    
+format:
+  html:
+    theme: minty
+    toc: false
+    page-layout: article

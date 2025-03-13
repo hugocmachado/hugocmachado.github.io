@@ -1,0 +1,25 @@
+---
+title: "About Me"
+about:
+  template: broadside
+  image: profile.png
+---
+
+<style>
+  body {
+  background-image: url("background.png");
+  background-size: 420px auto;
+  background-color: rgba(255, 255, 255, 0.75)
+  background-repeat: repeat;
+}
+  
+  main, .page-columns, .quarto-title-block, .quarto-page-columns {
+  background-color: rgba(255, 255, 255, 0.8); 
+  padding: 1em;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+  margin: auto;
+}
+</style>
+
+I am a PhD candidate in Political Science at the University of Western Ontario. My research focuses on political psychology and public opinion, with an emphasis on political cognition. I am particularly curious about the ways people learn about politics and the kinds of knowledge they mobilize when thinking about politics. The research I'm working on for my dissertation examines how belief structures interact with cultural contexts to shape political behaviour and identities. I love teaching and finding new methods of transmitting knowledge in more engaging and effective ways. Research gives me the opportunity to spend time with puzzles and learn a little more about the world everyday; it's not always smooth sailing, but it's still sailing. 

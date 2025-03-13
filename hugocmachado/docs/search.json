@@ -1,0 +1,280 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a PhD candidate in Political Science at the University of Western Ontario. My research focuses on political psychology and public opinion, with an emphasis on political cognition. I am particularly curious about the ways people learn about politics and the kinds of knowledge they mobilize when thinking about politics. The research I’m working on for my dissertation examines how belief structures interact with cultural contexts to shape political behaviour and identities. I love teaching and finding new methods of transmitting knowledge in more engaging and effective ways. Research gives me the opportunity to spend time with puzzles and learn a little more about the world everyday; it’s not always smooth sailing, but it’s still sailing."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Read more about Quarto blogs here.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\n\n\n\n\n\nOct 25, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\n\n\n\n\nOct 22, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Blog"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Author",
+    "section": "",
+    "text": "Twitter\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Github\n  \n\n  \n  \nI am a researcher at University of Oslo.\nMy work is about Electronic Health Records.\n\n\nUniversity of Oslo | Oslo, Norway\nPhD in Biostatistics | Oct 2022\n\n\n\nI have developed X R packages, published Y papers.",
+    "crumbs": [
+      "Main",
+      "About me"
+    ]
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Author",
+    "section": "",
+    "text": "University of Oslo | Oslo, Norway\nPhD in Biostatistics | Oct 2022",
+    "crumbs": [
+      "Main",
+      "About me"
+    ]
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Author",
+    "section": "",
+    "text": "I have developed X R packages, published Y papers.",
+    "crumbs": [
+      "Main",
+      "About me"
+    ]
+  },
+  {
+    "objectID": "blog/post-with-code/index.html",
+    "href": "blog/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "talks/index.html",
+    "href": "talks/index.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Talk at Oslo UseR meetup\n\n\n\n\n\nApr 2, 2019\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Talks"
+    ]
+  },
+  {
+    "objectID": "talks/index.html#rstats",
+    "href": "talks/index.html#rstats",
+    "title": "Talks",
+    "section": "",
+    "text": "Talk at Oslo UseR meetup\n\n\n\n\n\nApr 2, 2019\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Talks"
+    ]
+  },
+  {
+    "objectID": "talks/index.html#electronic-health-records",
+    "href": "talks/index.html#electronic-health-records",
+    "title": "Talks",
+    "section": "Electronic Health Records",
+    "text": "Electronic Health Records\n\n\n\n\n\n\n\n\n\n\nLearning from Hospital EHR data with R\n\n\n\n\n\nA 15 minutes introduction to hospital EHR data\n\n\n\n\n\nOct 28, 2019\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Talks"
+    ]
+  },
+  {
+    "objectID": "projects/pkg_2/index.html",
+    "href": "projects/pkg_2/index.html",
+    "title": "pkg_2",
+    "section": "",
+    "text": "This package does this."
+  },
+  {
+    "objectID": "projects/pkg_1/index.html",
+    "href": "projects/pkg_1/index.html",
+    "title": "pkg_1",
+    "section": "",
+    "text": "This package does this."
+  },
+  {
+    "objectID": "projects/project_2/index.html",
+    "href": "projects/project_2/index.html",
+    "title": "project_2",
+    "section": "",
+    "text": "In this project I work on Machine Learning methods to predict in-hospital mortality."
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "This is an example of grid listing. You can specify the content in the yaml header in the .qmd file.\nIt is convenient to use id to link to multiple folders.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Research",
+      "Projects"
+    ]
+  },
+  {
+    "objectID": "projects/index.html#grid-listing",
+    "href": "projects/index.html#grid-listing",
+    "title": "Projects",
+    "section": "",
+    "text": "This is an example of grid listing. You can specify the content in the yaml header in the .qmd file.\nIt is convenient to use id to link to multiple folders.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Research",
+      "Projects"
+    ]
+  },
+  {
+    "objectID": "projects/index.html#table-listing",
+    "href": "projects/index.html#table-listing",
+    "title": "Projects",
+    "section": "Table listing",
+    "text": "Table listing\nThis is an example of table listing.\n\nPackages\n\n\n\n\n\nTitle\n\n\nDescription\n\n\n\n\n\n\npkg_1\n\n\n\n\n\n\n\npkg_2\n\n\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Research",
+      "Projects"
+    ]
+  },
+  {
+    "objectID": "projects/project_1/index.html",
+    "href": "projects/project_1/index.html",
+    "title": "project_1",
+    "section": "",
+    "text": "In this project I use EHR to explore the hospital transfers."
+  },
+  {
+    "objectID": "talks/talk_1/index.html",
+    "href": "talks/talk_1/index.html",
+    "title": "Building Website in R: Step by Step Introduction to blogdown",
+    "section": "",
+    "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "blog/welcome/index.html",
+    "href": "blog/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "about_template.html",
+    "href": "about_template.html",
+    "title": "About this template",
+    "section": "",
+    "text": "About this template\n\n\n\nThis page contains some elaborated background information about your workshop, or the instructors.\n\n\nThis is to demonstrate how to make a drop-down page from the navigation bar.",
+    "crumbs": [
+      "About",
+      "This template"
+    ]
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Hugo Machado",
+    "section": "",
+    "text": "My research is currently focused on political psychology, cognition, public opinion, and methodology. I am particularly interested in:\n\nHow political identities interact with belief structures\nPolitical cognition and information processing\nPublic opinion formation and measurement\nCultural contexts and their influence on political behaviour"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Hugo Machado",
+    "section": "",
+    "text": "My approach to teaching combines theoretical knowledge of teaching and learning scholarship with practical applications that aim to increase student engagement and learning. With the use of interactive tools like Shiny applications, I can better help students to visualize and work through complex content. I believe in creating supportive learning environments where students with different strengths can develop their technical skills and critical thinking abilities."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Hugo Machado",
+    "section": "",
+    "text": "You can download a PDF version of my CV here.\n\nLast updated: March 2025\n\n\n\n\n\nDownload CV"
+  },
+  {
+    "objectID": "cv.html#curriculum-vitae",
+    "href": "cv.html#curriculum-vitae",
+    "title": "CV",
+    "section": "",
+    "text": "Below is my current curriculum vitae. You can view it directly in this page or download a PDF version.\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nLast updated: March 2025. Please email me at hmachad2@uwo.ca if you encounter any issues viewing the document."
+  },
+  {
+    "objectID": "teaching.html#teaching-philosophy",
+    "href": "teaching.html#teaching-philosophy",
+    "title": "Hugo Machado",
+    "section": "",
+    "text": "My approach to teaching combines theoretical knowledge of teaching and learning scholarship with practical applications that aim to increase student engagement and learning. With the use of interactive tools like Shiny applications, I can better help students to visualize and work through complex content. I believe in creating supportive learning environments where students with different strengths can develop their technical skills and critical thinking abilities."
+  },
+  {
+    "objectID": "teaching.html#teaching-experience",
+    "href": "teaching.html#teaching-experience",
+    "title": "Hugo Machado",
+    "section": "Teaching Experience",
+    "text": "Teaching Experience\n\nTeaching Assistant Positions\nPS9591B Regression and Causal Inference (Jan 2025 - May 2025)\nInstructor: Sebastian Vallejo-Vera, University of Western Ontario\n- Graduate-level course on regression analysis and causal inference theory - Responsibilities include weekly tutorials using interactive Shiny apps - Teaching R programming to support data analysis - Holding office hours, answering emails, and grading assignments\nPS2325F Research Design in Political Science (Sep 2024 - Dec 2024)\nInstructor: Alvaro Pereira, University of Western Ontario\n- Implemented weekly quizzes to enhance student learning - Assisted students through office hours and scheduled meetings - Graded assignments and proctored exams\nPS2531 Foundations of International Relations (Jan 2024 - May 2024)\nInstructor: Dan Bousfield, University of Western Ontario\n- Essay grading and office hours for undergraduate students\nPS2325F Research Design in Political Science (Sep 2023 - Dec 2023, Sep 2022 - Dec 2022)\nInstructor: Mathieu Turgeon, University of Western Ontario\n- Assisted students with assignments and course questions - Held regular office hours and scheduled meetings - Graded assignments and proctored exams\n\n\nGuest Lectures\nPS2325F - Research Design in Political Science\n“Surveys” (Nov 19, 2024)\nDelivered lecture on survey research methodology, covering: - Strengths and weaknesses of survey-based research - Techniques for writing effective survey questions - Methods for interpreting survey data and analysis\nPS9595A - Experimental Methods (Graduate)\n“Behaviour Economics, Trust Games & Inducing Behaviour in Experiments” (Oct 1, 2024)\n- Co-hosted with Professor Erin Heerey (Psychology Department) - Introduced behavioral economics approaches and experimental applications - Synthesized readings and facilitated student discussion\nPS9595A - Experimental Methods (Graduate)\n“Experiments for Many Questions” (Sep 17, 2024)\n- Synthesized literature on experimental methods in political science - Led discussion on appropriate applications of experimental designs - Facilitated student presentations on experimental designs in academic articles\nPS9538B - Political Psychology (Graduate)\n“Information Processing and Decision-Making” (Mar 21, 2024)\n- Moderated discussion of assigned readings - Synthesized content on political information processing - Explored implications for political behaviour\nPS2325F - Research Design in Political Science\n“Argumentation” (Oct 3, 2023)\n- Delivered lecture on effective concept development - Taught methods for building compelling theoretical arguments - Worked through concrete examples with students\n\n\nLanguage Instruction\nEnglish Language Instructor (Mar 2016 - Jul 2017, Aug 2013 - Dec 2014)\nCNA Idiomas, Itajai, Brazil\n- Taught English as a Second Language to diverse age groups - Developed curriculum for beginning through advanced levels - Instructed both children (ages 6-14) and adult-only classes"
+  },
+  {
+    "objectID": "teaching.html#interactive-teaching-tools",
+    "href": "teaching.html#interactive-teaching-tools",
+    "title": "Hugo Machado",
+    "section": "Interactive Teaching Tools",
+    "text": "Interactive Teaching Tools\nI’ve developed a series of interactive tutorials using R Shiny that help students visualize and understand complex statistical and methodological concepts. These applications provide hands-on learning experiences that complement traditional lecture formats.\n\nFeatured Tutorial:\n\n\n\n\nScreenshot of Regression Analysis Tutorial\n\n\n\nThis interactive application allows students to explore the basics of regression analysis, including assumptions, coefficient interpretation, and diagnostics.\nAccess the Regression Analysis Tutorial\nFeatures:\n\nInteractive quizzes stimulate learning through recall and repeated exposure to important concepts.\nA mix of conceptual, logical, and practical tasks mobilize the different types of knowledge students need for statistical analysis\nComplete-the-code tasks train students on the hands-on skills they need to go from raw data to analytic products"
+  },
+  {
+    "objectID": "teaching.html#professional-development",
+    "href": "teaching.html#professional-development",
+    "title": "Hugo Machado",
+    "section": "Professional Development",
+    "text": "Professional Development\nAdvanced Teaching Program\nCentre for Teaching and Learning (CTL), University of Western Ontario\nCompleted certification program focused on developing effective teaching strategies and pedagogical approaches."
+  },
+  {
+    "objectID": "teaching.html#teaching-resources",
+    "href": "teaching.html#teaching-resources",
+    "title": "Teaching",
+    "section": "Teaching Resources",
+    "text": "Teaching Resources\nI’m continually developing resources to support student learning. Check out my Portfolio page for access to tutorial applications, code examples, and other teaching materials."
+  },
+  {
+    "objectID": "research.html#research-interests",
+    "href": "research.html#research-interests",
+    "title": "Hugo Machado",
+    "section": "",
+    "text": "My research is currently focused on political psychology, cognition, public opinion, and methodology. I am particularly interested in:\n\nHow political identities interact with belief structures\nPolitical cognition and information processing\nPublic opinion formation and measurement\nCultural contexts and their influence on political behaviour"
+  },
+  {
+    "objectID": "research.html#current-research",
+    "href": "research.html#current-research",
+    "title": "Hugo Machado",
+    "section": "Current Research",
+    "text": "Current Research\n\nDissertation Project\nAssociative Diffusion and Belief System Consolidation: How Cultural Meanings Shape Political Identities in Contemporary Democracies\nUniversity of Western Ontario\nMy dissertation is focused on understanding how different cultural and informational environments lead to variation in the content and structure of political schemas. This research:\n\nInvestigates the interaction between political identity formation and cultural influences\nExplores how belief structures mediate political behaviour\nEmploys mixed methods including surveys and experimental approaches\n\nI am currently developing this research under the supervision of Dr. Mathieu Turgeon."
+  },
+  {
+    "objectID": "research.html#research-experience",
+    "href": "research.html#research-experience",
+    "title": "Hugo Machado",
+    "section": "Research Experience",
+    "text": "Research Experience\n\nResearch Associate - ENAP\nEscola Nacional de Administração Pública (ENAP) (Jan 2024 - Sep 2024)\nRemote position with the Brazilian federal government institution responsible for internal research and data analysis:\n\nLed analysis for a project investigating determinants of public support and opinion about the Brazilian civil service\nAnalyzed an internal survey of civil servants to identify correlates of satisfaction and perceptions of bureaucratic autonomy and political independence\n\n\n\nResearch Assistant - Conspiracy Theory Projects\nUniversity of Western Ontario (May 2023 - Present)\nWorking with Prof. Mathieu Turgeon on multiple projects: - Conspiracy Theory Mobilization Project: Classified and rated Tweets according to established criteria (paper currently under peer review) - Conspiracy Theory Measurement Project: Analyzing survey experiment data and conducting meta-analysis of conspiracy theory measurement instruments to assess publication bias\n\n\nResearch Assistant - Social Signals Study\nSocial Psychology Labs, University of Western Ontario (Apr 2023 - Jul 2024)\nWorking with Professors Erin Heerey and Amanda Friesen: - Managed participant interactions in experimental settings - Administered pre-intervention surveys - Monitored video recording equipment - Project goal: Investigating effects of political discussion on evaluation of social interactions\n\n\nResearch Assistant - Student Experience Survey\nUniversity of Western Ontario, London, Ontario (Jan. 2023 - May 2023) Internal student experience survey – Department of Political Science. Created and implemented comprehensive student experience survey using Qualtrics. Project led by Prof. Biswas-Mellamphy.\n\n\nResearch Assistant - Emotions & Prejudice Project\nUniversity of Western Ontario (Apr 2022 - Present)\nWorking with Drs. Jordan Mansell, Mathieu Turgeon, and Amanda Friesen: - Assisted in survey development and experimental interventions - Set up lab equipment and physiological measurement systems - Currently analyzing survey data and physiological readings - Processing Blood Volume Pulse and Heart Rate data - Creating standardized databases for statistical analysis\n\n\nResearch Assistant - Conspiracy Theory Book Project\nUniversity of Western Ontario (Oct 2021 - Dec 2022)\nWorking with Prof. Mathieu Turgeon: - Collected and analyzed historical and social media data about conspiracy theories in Brazil - Studied communication patterns and political correlates of conspiracy theory spread - Developed an academic article currently being prepared for publication - Created an analytical report using experimental survey data from the compulsory voting project\n\n\nPrevious Research Positions\n\nJudicial Responses to Corruption Project, Universidade Federal de Santa Catarina (Oct 2020 - Apr 2021)\n\n\n\n\n\nMap of electoral lawsuits against mayoral candidates in the state of Santa Catarina (2016)\n\n\n\nMap of electoral judicialization of the 2016 mayoral elections in Santa Catarina (SC), Brazil. The colors indicate the initiators of legal actions: blue represents actions initiated by the Public District Attorney (MP), green shows cases initiated jointly by the MP and politicians, and red indicates actions initiated by political actors alone.\n\nLatin American Campaigns Project, University of California San Diego (Remote - Apr 2020 - Apr 2021)\n\nResearch assistant work for Professor Scott Desposato."
+  },
+  {
+    "objectID": "research.html#conference-presentations-workshops",
+    "href": "research.html#conference-presentations-workshops",
+    "title": "Hugo Machado",
+    "section": "Conference Presentations & Workshops",
+    "text": "Conference Presentations & Workshops\n\n“Measuring Support for Conspiracy Theories”\nInternational Society of Political Psychology (ISPP) Conference, Montreal (July 2023)\nPresented initial findings from work developed with Mathieu Turgeon examining different measurement approaches for conspiracy theory belief and their impacts on reported support levels.\n\n\n“The Politics of Moral Disciplining: Individual Differences and the Moralization of Bodily Pleasures”\nCanadian Political Science Association (CPSA) Annual Meeting, York University (May 2023)\nPresented research on individual differences underlying repressive moral policy attitudes, focusing on: - Regulation of bodily pleasures (drug policy as exemplar) - Life and death issues (medical assistance in dying) - Mixed categories (abortion) - Role of moral disciplining disposition, sexual traditionalism, empathy, ideology, and religiosity\n\n\n\n\nChange in Predicted Probabilities for Repressive Preferences (Cannabis)\n\n\n\nThis visualization shows how different individual characteristics and psychological traits affect support for repressive cannabis policies. Points to the right of the vertical dotted line indicate factors that increase support for repressive policies, while points to the left indicate factors that decrease support. Data from the 2019 Canadian Election Study (Stephenson, Harell, Rubenson, Loewen, 2020)\n\n\nISPP Academy Workshop\nInternational Society of Political Psychology, Montreal (July 2023)\nParticipated in a three-day pre-conference workshop featuring: - Lectures by leading political psychology scholars - Presentation rounds and open discussions - Networking with established researchers and peers in the field"
+  },
+  {
+    "objectID": "research.html#research-skills",
+    "href": "research.html#research-skills",
+    "title": "Hugo Machado",
+    "section": "Research Skills",
+    "text": "Research Skills\n\nData Analysis: R, Excel, Stata, SPSS\nResearch Design: Observational and experimental methodologies\nSurvey Tools: Qualtrics survey platform (design and implementation)\nInteractive Applications: Shiny apps and tutorials\nGeospatial Analysis: Workshop certification\nLanguages: Fluent in English and Portuguese, Advanced Spanish, Intermediate French"
+  },
+  {
+    "objectID": "research.html#grants-awards",
+    "href": "research.html#grants-awards",
+    "title": "Hugo Machado",
+    "section": "Grants & Awards",
+    "text": "Grants & Awards\nGraduate Research Award Funds - Faculty of Social Science (Apr 2023)\nUniversity of Western Ontario\n\nAwarded $550 to conduct primary research for dissertation project on morality policies\nResearch explores why certain behaviors are treated as matters of repression vs. tolerance\nInvestigates nuances of social conservatism not captured by traditional ideological measures\nTests Moral Disciplining Theory through observational and experimental approaches"
+  }
+]
