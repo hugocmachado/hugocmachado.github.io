@@ -8,9 +8,11 @@ about:
 <style>
   body {
   background-image: url("background.png");
-  background-size: 420px auto;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center center;
+  background-repeat: no-repeat;
   background-color: rgba(255, 255, 255, 0.75)
-  background-repeat: repeat;
 }
   
   main, .page-columns, .quarto-title-block, .quarto-page-columns {
@@ -22,4 +24,4 @@ about:
 }
 </style>
 
-I am a PhD candidate in Political Science at the University of Western Ontario. My research focuses on political psychology and public opinion, with an emphasis on political cognition. I am particularly curious about the ways people learn about politics and the kinds of knowledge they mobilize when thinking about politics. The research I'm working on for my dissertation examines how belief structures interact with cultural contexts to shape political behaviour and identities. I love teaching and finding new methods of transmitting knowledge in more engaging and effective ways. Research gives me the opportunity to spend time with puzzles and learn a little more about the world everyday; it's not always smooth sailing, but it's still sailing. 
+I am a PhD candidate in Political Science at the University of Western Ontario. My research focuses on political behaviour and beliefs, with an emphasis on culture and media. I am particularly curious about how people learn political ideas and the kinds of knowledge they mobilize when thinking about political issues. The research I am working on for my dissertation examines how belief structures interact with cultural contexts to shape political behaviour and identities. I love research, teaching, and finding new ways of transmitting knowledge in more engaging and effective ways. Research gives me the opportunity to spend time with puzzles and learn a little more about the world everyday; it's not always smooth sailing, but it's still sailing! 

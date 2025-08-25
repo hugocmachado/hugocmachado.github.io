@@ -4,79 +4,11 @@ title: ""
 
 ## Teaching Philosophy
 
-My approach to teaching combines theoretical knowledge of teaching and learning scholarship with practical applications that aim to increase student engagement and learning. With the use of interactive tools like Shiny applications, I can better help students to visualize and work through complex content. I believe in creating supportive learning environments where students with different strengths can develop their technical skills and critical thinking abilities.
-
-## Teaching Experience
-
-### Teaching Assistant Positions
-
-**PS9591B Regression and Causal Inference** (Jan 2025 - May 2025)  
-Instructor: Sebastian Vallejo-Vera, University of Western Ontario  
-- Graduate-level course on regression analysis and causal inference theory
-- Responsibilities include weekly tutorials using interactive Shiny apps
-- Teaching R programming to support data analysis
-- Holding office hours, answering emails, and grading assignments
-
-**PS2325F Research Design in Political Science** (Sep 2024 - Dec 2024)  
-Instructor: Alvaro Pereira, University of Western Ontario  
-- Implemented weekly quizzes to enhance student learning
-- Assisted students through office hours and scheduled meetings
-- Graded assignments and proctored exams
-
-**PS2531 Foundations of International Relations** (Jan 2024 - May 2024)  
-Instructor: Dan Bousfield, University of Western Ontario  
-- Essay grading and office hours for undergraduate students
-
-**PS2325F Research Design in Political Science** (Sep 2023 - Dec 2023, Sep 2022 - Dec 2022)  
-Instructor: Mathieu Turgeon, University of Western Ontario  
-- Assisted students with assignments and course questions
-- Held regular office hours and scheduled meetings
-- Graded assignments and proctored exams
-
-### Guest Lectures
-
-**PS2325F - Research Design in Political Science**  
-*"Surveys"* (Nov 19, 2024)  
-Delivered lecture on survey research methodology, covering:
-- Strengths and weaknesses of survey-based research
-- Techniques for writing effective survey questions
-- Methods for interpreting survey data and analysis
-
-**PS9595A - Experimental Methods (Graduate)**  
-*"Behaviour Economics, Trust Games & Inducing Behaviour in Experiments"* (Oct 1, 2024)  
-- Co-hosted with Professor Erin Heerey (Psychology Department)
-- Introduced behavioral economics approaches and experimental applications
-- Synthesized readings and facilitated student discussion
-
-**PS9595A - Experimental Methods (Graduate)**  
-*"Experiments for Many Questions"* (Sep 17, 2024)  
-- Synthesized literature on experimental methods in political science
-- Led discussion on appropriate applications of experimental designs
-- Facilitated student presentations on experimental designs in academic articles
-
-**PS9538B - Political Psychology (Graduate)**  
-*"Information Processing and Decision-Making"* (Mar 21, 2024)  
-- Moderated discussion of assigned readings
-- Synthesized content on political information processing
-- Explored implications for political behaviour
-
-**PS2325F - Research Design in Political Science**  
-*"Argumentation"* (Oct 3, 2023)  
-- Delivered lecture on effective concept development
-- Taught methods for building compelling theoretical arguments
-- Worked through concrete examples with students
-
-### Language Instruction
-
-**English Language Instructor** (Mar 2016 - Jul 2017, Aug 2013 - Dec 2014)  
-CNA Idiomas, Itajai, Brazil  
-- Taught English as a Second Language to diverse age groups
-- Developed curriculum for beginning through advanced levels
-- Instructed both children (ages 6-14) and adult-only classes
+My approach to teaching combines theoretical knowledge of teaching and learning scholarship with practical applications that aim to increase student engagement and learning. With the use of interactive tools and engaging activities, I can better help students to visualize and work through complex content. I believe in creating supportive learning environments where students with different strengths can develop their technical skills and critical thinking abilities. For a more comprehensive overview of my teaching experience, please check the CV tab for an updated description.
 
 ## Interactive Teaching Tools
 
-I've developed a series of interactive tutorials using R Shiny that help students visualize and understand complex statistical and methodological concepts. These applications provide hands-on learning experiences that complement traditional lecture formats.
+I've developed a series of interactive tutorials using Shiny for my regression methods TAship. These applications provide hands-on learning experiences that complement traditional lecture formats and help solidify abstract statistical concepts.
 
 ### Featured Tutorial:
 
@@ -86,17 +18,3 @@ I've developed a series of interactive tutorials using R Shiny that help student
 This interactive application allows students to explore the basics of regression analysis, including assumptions, coefficient interpretation, and diagnostics.
 
 [Access the Regression Analysis Tutorial](https://hmachado.shinyapps.io/week5/){.btn .btn-primary target="_blank"}
-
-*Features:*
-
-- Interactive quizzes stimulate learning through recall and repeated exposure to important concepts. 
-
-- A mix of conceptual, logical, and practical tasks mobilize the different types of knowledge students need for statistical analysis
-
-- Complete-the-code tasks train students on the hands-on skills they need to go from raw data to analytic products 
-
-## Professional Development
-
-**Advanced Teaching Program**  
-Centre for Teaching and Learning (CTL), University of Western Ontario  
-Completed certification program focused on developing effective teaching strategies and pedagogical approaches.

@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "About Me",
     "section": "",
-    "text": "I am a PhD candidate in Political Science at the University of Western Ontario. My research focuses on political psychology and public opinion, with an emphasis on political cognition. I am particularly curious about the ways people learn about politics and the kinds of knowledge they mobilize when thinking about politics. The research I’m working on for my dissertation examines how belief structures interact with cultural contexts to shape political behaviour and identities. I love teaching and finding new methods of transmitting knowledge in more engaging and effective ways. Research gives me the opportunity to spend time with puzzles and learn a little more about the world everyday; it’s not always smooth sailing, but it’s still sailing."
+    "text": "I am a PhD candidate in Political Science at the University of Western Ontario. My research focuses on political behaviour and beliefs, with an emphasis on culture and media. I am particularly curious about how people learn political ideas and the kinds of knowledge they mobilize when thinking about political issues. The research I am working on for my dissertation examines how belief structures interact with cultural contexts to shape political behaviour and identities. I love research, teaching, and finding new ways of transmitting knowledge in more engaging and effective ways. Research gives me the opportunity to spend time with puzzles and learn a little more about the world everyday; it’s not always smooth sailing, but it’s still sailing!"
   },
   {
     "objectID": "blog.html",
@@ -177,21 +177,21 @@
     "href": "research.html",
     "title": "Hugo Machado",
     "section": "",
-    "text": "My research is currently focused on political psychology, cognition, public opinion, and methodology. I am particularly interested in:\n\nHow political identities interact with belief structures\nPolitical cognition and information processing\nPublic opinion formation and measurement\nCultural contexts and their influence on political behaviour"
+    "text": "I study how cultural, psychological, and institutional processes shape the way people organize political beliefs, and how those beliefs guide political behaviour in different contexts. My work brings together political behaviour, cultural sociology, and comparative politics to understand not only what people think, but how they structure and process their political ideas. For a more detailed description of my research, please check my CV tab.\nI also collaborate on projects examining:\n\nThe mobilization and measurement of conspiracy beliefs across countries\n\nEmotional and physiological foundations of prejudice and political intolerance\n\nHow everyday political discussions shape social evaluation and interaction\n\n\n\nMy dissertation investigates how cultural meanings and informational environments shape political identities and belief structures in contemporary democracies. I use surveys and experiments to explore how certain political beliefs and cultural markers coalesce, and how they influence political attitudes and participation. I am currently developing this research under the supervision of Prof. Mathieu Turgeon."
   },
   {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Hugo Machado",
     "section": "",
-    "text": "My approach to teaching combines theoretical knowledge of teaching and learning scholarship with practical applications that aim to increase student engagement and learning. With the use of interactive tools like Shiny applications, I can better help students to visualize and work through complex content. I believe in creating supportive learning environments where students with different strengths can develop their technical skills and critical thinking abilities."
+    "text": "My approach to teaching combines theoretical knowledge of teaching and learning scholarship with practical applications that aim to increase student engagement and learning. With the use of interactive tools and engaging activities, I can better help students to visualize and work through complex content. I believe in creating supportive learning environments where students with different strengths can develop their technical skills and critical thinking abilities. For a more comprehensive overview of my teaching experience, please check the CV tab for an updated description."
   },
   {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "Hugo Machado",
     "section": "",
-    "text": "You can download a PDF version of my CV here.\n\nLast updated: March 2025\n\n\n\n\n\nDownload CV"
+    "text": "You can download a PDF version of my CV here.\n\nLast updated: August 2025\n\n\n\n\n\nDownload CV"
   },
   {
     "objectID": "cv.html#curriculum-vitae",
@@ -205,7 +205,7 @@
     "href": "teaching.html#teaching-philosophy",
     "title": "Hugo Machado",
     "section": "",
-    "text": "My approach to teaching combines theoretical knowledge of teaching and learning scholarship with practical applications that aim to increase student engagement and learning. With the use of interactive tools like Shiny applications, I can better help students to visualize and work through complex content. I believe in creating supportive learning environments where students with different strengths can develop their technical skills and critical thinking abilities."
+    "text": "My approach to teaching combines theoretical knowledge of teaching and learning scholarship with practical applications that aim to increase student engagement and learning. With the use of interactive tools and engaging activities, I can better help students to visualize and work through complex content. I believe in creating supportive learning environments where students with different strengths can develop their technical skills and critical thinking abilities. For a more comprehensive overview of my teaching experience, please check the CV tab for an updated description."
   },
   {
     "objectID": "teaching.html#teaching-experience",
@@ -219,7 +219,7 @@
     "href": "teaching.html#interactive-teaching-tools",
     "title": "Hugo Machado",
     "section": "Interactive Teaching Tools",
-    "text": "Interactive Teaching Tools\nI’ve developed a series of interactive tutorials using R Shiny that help students visualize and understand complex statistical and methodological concepts. These applications provide hands-on learning experiences that complement traditional lecture formats.\n\nFeatured Tutorial:\n\n\n\n\nScreenshot of Regression Analysis Tutorial\n\n\n\nThis interactive application allows students to explore the basics of regression analysis, including assumptions, coefficient interpretation, and diagnostics.\nAccess the Regression Analysis Tutorial\nFeatures:\n\nInteractive quizzes stimulate learning through recall and repeated exposure to important concepts.\nA mix of conceptual, logical, and practical tasks mobilize the different types of knowledge students need for statistical analysis\nComplete-the-code tasks train students on the hands-on skills they need to go from raw data to analytic products"
+    "text": "Interactive Teaching Tools\nI’ve developed a series of interactive tutorials using Shiny for my regression methods TAship. These applications provide hands-on learning experiences that complement traditional lecture formats and help solidify abstract statistical concepts.\n\nFeatured Tutorial:\n\n\n\n\nScreenshot of Regression Analysis Tutorial\n\n\n\nThis interactive application allows students to explore the basics of regression analysis, including assumptions, coefficient interpretation, and diagnostics.\nAccess the Regression Analysis Tutorial"
   },
   {
     "objectID": "teaching.html#professional-development",
@@ -276,5 +276,12 @@
     "title": "Hugo Machado",
     "section": "Grants & Awards",
     "text": "Grants & Awards\nGraduate Research Award Funds - Faculty of Social Science (Apr 2023)\nUniversity of Western Ontario\n\nAwarded $550 to conduct primary research for dissertation project on morality policies\nResearch explores why certain behaviors are treated as matters of repression vs. tolerance\nInvestigates nuances of social conservatism not captured by traditional ideological measures\nTests Moral Disciplining Theory through observational and experimental approaches"
+  },
+  {
+    "objectID": "research.html#research",
+    "href": "research.html#research",
+    "title": "Hugo Machado",
+    "section": "",
+    "text": "I study how cultural, psychological, and institutional processes shape the way people organize political beliefs, and how those beliefs guide political behaviour in different contexts. My work brings together political behaviour, cultural sociology, and comparative politics to understand not only what people think, but how they structure and process their political ideas. For a more detailed description of my research, please check my CV tab.\nI also collaborate on projects examining:\n\nThe mobilization and measurement of conspiracy beliefs across countries\n\nEmotional and physiological foundations of prejudice and political intolerance\n\nHow everyday political discussions shape social evaluation and interaction\n\n\n\nMy dissertation investigates how cultural meanings and informational environments shape political identities and belief structures in contemporary democracies. I use surveys and experiments to explore how certain political beliefs and cultural markers coalesce, and how they influence political attitudes and participation. I am currently developing this research under the supervision of Prof. Mathieu Turgeon."
   }
 ]

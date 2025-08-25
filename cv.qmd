@@ -5,7 +5,7 @@ title: " "
 You can download a PDF version of my CV [here](CV2025-Machado.pdf).
 
 <div style="text-align: center; font-style: italic; margin-bottom: 20px; color: #666;">
-  Last updated: March 2025
+  Last updated: August 2025
 </div>
 
 <div style="position: relative; padding-bottom: 129%; /* 8.5:11 aspect ratio */ height: 0; max-width: 850px; margin: 0 auto;">
