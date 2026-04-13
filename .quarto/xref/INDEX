@@ -49,5 +49,17 @@
   },
   "cv.qmd": {
     "cv.html": "0cdff559"
+  },
+  "pt/index.qmd": {
+    "index.html": "dbd83b94"
+  },
+  "pt/teaching.qmd": {
+    "teaching.html": "8f6edbff"
+  },
+  "pt/research.qmd": {
+    "research.html": "0b04a536"
+  },
+  "pt/cv.qmd": {
+    "cv.html": "07af14d5"
   }
 }

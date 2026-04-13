@@ -1,0 +1,23 @@
+project:
+  output-dir: docs
+  render:
+    - "pt/*.qmd"
+
+lang: pt-BR
+
+website:
+  navbar:
+    left:
+      - text: "CV"
+        href: pt/cv.qmd
+      - text: "Pesquisa"
+        href: pt/research.qmd
+      - text: "Ensino"
+        href: pt/teaching.qmd
+    right:
+      - text: "EN"
+        href: index.html
+      - icon: github
+        href: https://github.com/hugocmachado
+      - icon: envelope
+        href: mailto:hmachad2@uwo.ca

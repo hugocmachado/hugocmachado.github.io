@@ -1,0 +1,33 @@
+---
+title: ""
+about:
+  template: trestles
+  image: ../profile.jpeg
+  image-shape: rounded
+  image-width: 20em
+---
+
+<style>
+  body {
+  background-image: url("../background.png");
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-color: rgba(255, 255, 255, 0.75)
+}
+  
+  main, .page-columns, .quarto-title-block, .quarto-page-columns {
+  background-color: rgba(255, 255, 255, 0.8); 
+  padding: 1em;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+  margin: auto;
+}
+
+.quarto-title-block {
+    display: none;
+  }
+</style>
+
+Sou doutorando em Ciência Política na University of Western Ontario. Minha pesquisa concentra-se em comportamento e crenças políticas, com ênfase em cultura e mídia. Tenho particular curiosidade sobre como as pessoas aprendem ideias políticas e os tipos de conhecimento que mobilizam ao pensar sobre questões políticas. A pesquisa que estou desenvolvendo para a minha tese examina como as estruturas de crenças interagem com os contextos culturais para moldar o comportamento e as identidades políticas. Adoro pesquisar, ensinar e descobrir novas maneiras de transmitir conhecimento de forma mais envolvente e eficaz. A pesquisa me dá a oportunidade de passar o tempo resolvendo quebra-cabeças e aprendendo um pouco mais sobre o mundo todos os dias; a navegação nem sempre é tranquila, mas continuamos navegando!

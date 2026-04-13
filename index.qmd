@@ -1,8 +1,8 @@
 ---
 title: ""
 about:
-  template: broadside
-  image: profile.png
+  template: trestles
+  image: profile.jpeg
 ---
 
 <style>
