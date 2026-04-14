@@ -1,5 +1,5 @@
 ---
-title: " "
+title: ""
 ---
 
 You can download a PDF version of my CV [here](CV2026-Machado.pdf).
